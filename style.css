@@ -130,7 +130,7 @@ nav{
     height: auto;
     padding: 10px;
     align-items: center;
-    /* position: absolute; */
+    
     margin-top: 100px; 
     line-height: 1.5rem;
 }
@@ -140,12 +140,9 @@ nav{
 }
 #div1{
     margin-top: 250px;
-    margin-right: 200px;
-    /* margin-left: 500px; */
+  
 }
-/* #div2{
-    margin-left: 1100px;
-}  */
+
 .servhead{
     font-size: 30px;
     
@@ -153,17 +150,12 @@ nav{
 .servicecontent1{
     margin-top: 10%;
     margin-left: 100px;
-    /* position: relative;
     
-    display: flex;
-    flex-wrap: nowrap; */
     display: grid;
     grid-template-columns: repeat(3, 1fr); 
     gap: 30px; 
 }
-/* #div3{
-    margin-left: 550px;
-} */
+
 #portfolio{
     margin: 15% 8% 0px 6%;
 }
@@ -193,8 +185,7 @@ nav{
    
     margin-top: 10%;
     display: flex;
-    flex-wrap: nowrap;   /* justify-content: center; 
-    align-items: center;   */
+    flex-wrap: nowrap;  
 }
 .information{
     margin-top: 1.3rem;
@@ -230,7 +221,7 @@ nav{
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    /* border: solid 2px; */
+    
     display: flex;
     
     margin: 0px 10px;
